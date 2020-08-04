@@ -8,4 +8,4 @@ An incomplete listing of cop shit in education technology.
 
 ## Articles
 
-* [College Board](https://copshit.net/2020/08/03/college-board)
+* [College Board](https://copshit.net/articles/college-board)
