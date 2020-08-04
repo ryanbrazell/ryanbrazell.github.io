@@ -2,14 +2,12 @@
 layout: default
 title: Cop Shit
 ---
-<h1>{{ page.title }}</h1>
+# {{ page.title }}
 
 What is cop shit? Glad you asked. Check out Jeffrey Moro's article, <a href="https://jeffreymoro.com/blog/2020-02-13-against-cop-shit/" target="_blank">Against Cop Shit</a>.
 
 <hr />
 
-<h2>Index</h2>
+### Index
 
-<ul>
-	<li><a href="http://copshit.net/2020/08/03/college-board">College Board</a></li>
-<ul>
+[College Board](http://copshit.net/2020/08/03/college-board)
