@@ -6,6 +6,6 @@ title: Cop Shit
 
 An incomplete listing of cop shit in higher education, with a focus on education technology. 
 
-## Articles
+### Articles
 
 * [College Board](https://copshit.net/articles/college-board)
