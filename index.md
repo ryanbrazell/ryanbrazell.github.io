@@ -4,7 +4,7 @@ title: Cop Shit
 ---
 # {{ page.title }}
 
-An incomplete listing of cop shit in education technology. 
+An incomplete listing of cop shit in higher education, with a focus on education technology. 
 
 ## Articles
 
